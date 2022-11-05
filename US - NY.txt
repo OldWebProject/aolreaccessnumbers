@@ -1,0 +1,19 @@
+Albany    518-9336  
+Albany    838-9344  
+Binghamton    607-9338  
+Brentwood    631-9339  
+Brentwood    934-9349 
+Buffalo    716-9342  
+Hempstead    516-9335  
+New City    845-9345  
+New York    212-9331  
+New York    332-9333  
+New York    347-9334  
+New York    646-9340  
+New York    718-9343  
+New York    917-9347  
+New York    929-9348  
+Rochester    585-9337  
+Syracuse    315-9332  
+Syracuse    680-9341  
+Yonkers    914-9346  

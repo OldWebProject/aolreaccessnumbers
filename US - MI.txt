@@ -1,0 +1,12 @@
+Ann Arbor     734-9338   
+Detroit     313-9334  
+Flint     810-9339   
+Grand Rapids     616-9337   
+Kalamazoo     269-9333   
+Lansing     517-9335   
+Marquette     906-9340   
+Muskegon     231-9331   
+Saginaw     989-9342  
+Troy     248-9332   
+Troy     947-9341   
+Warren     586-9336   
